@@ -1,1 +1,1 @@
-login.Na-Kids.github.io
+loginNaKids.github.io
